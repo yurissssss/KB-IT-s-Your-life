@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf21f1c0-1e54-4c38-8bac-d73e5a0a0054" name="변경" comment="" />
+    <list default="true" id="cf21f1c0-1e54-4c38-8bac-d73e5a0a0054" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/src/ch02/sec10/PrimitiveAndStringConversationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/01_java(심화)/study/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 이것이 자바다/02_java(기본)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03 이것이 자바다/02_java(기본)/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yurissssss&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yurissssss/KB-IT-s-Your-life.git&quot;,
+    &quot;accountId&quot;: &quot;59fdae7e-5a88-4ed3-a9e8-75a9acf93483&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2vnnnoxABvs9FCQOGOFrS7kDccd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,13 +45,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/yuri/Desktop/IT's Your life/fullstack/03 이것이 자바다/02_java(기본)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/yuri/Desktop/IT's Your life/fullstack/03 이것이 자바다/02_java(기본)/study/src/Main.java",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CarExample.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -44,10 +79,23 @@
       <option name="presentableId" value="Default" />
       <updated>1744789874461</updated>
       <workItem from="1744789875540" duration="210000" />
+      <workItem from="1744792756297" duration="65000" />
+      <workItem from="1744794270098" duration="470000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/study/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
