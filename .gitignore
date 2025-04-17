@@ -1,0 +1,38 @@
+# 💻 IntelliJ IDEA
+.idea/
+*.iml
+
+# 💻 VSCode
+.vscode/
+
+# 🚀 Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.env
+.env.*.local
+
+# ☕ Java
+out/
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# 🖥️ OS 설정파일
+.DS_Store
+Thumbs.db
+
+# 🧪 테스트/커버리지
+coverage/
+*.lcov
+jest-html-reporters-*.html
+
+# 🧹 기타 임시 파일
+*.swp
+*.swo
+*.tmp
+*.bak
