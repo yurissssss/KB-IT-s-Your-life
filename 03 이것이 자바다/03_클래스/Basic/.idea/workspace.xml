@@ -4,11 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf21f1c0-1e54-4c38-8bac-d73e5a0a0054" name="변경" comment="" />
+    <list default="true" id="cf21f1c0-1e54-4c38-8bac-d73e5a0a0054" name="변경" comment="📁 add : Calculator.java 추가 04-17">
+      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec08/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec08/exam04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec09/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec10/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec10/exam01/CalculatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/02_java(기본).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/02_java(기본).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec06/exam01/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam01/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam01/CarExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam02/Korean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam02/KoreanExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam03/Korean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam04/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam04/CarExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam05/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam05/CarExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam01/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam01/CalculatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam02/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam02/ComputerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam03/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam03/CarExample.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -29,6 +63,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2vnnnoxABvs9FCQOGOFrS7kDccd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,13 +82,35 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/yuri/Desktop/IT's Your life/fullstack/03 이것이 자바다/02_java(기본)/study/src/Main.java",
     "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true",
-    "애플리케이션.CarExample.executor": "Run"
+    "애플리케이션.CalculatorExample.executor": "Run",
+    "애플리케이션.CarExample.executor": "Run",
+    "애플리케이션.ComputerExample.executor": "Run"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec08.exam03.CarExample" />
+      <module name="02_java(기본)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch06.sec08.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.CarExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,11 +131,23 @@
       <workItem from="1744792756297" duration="65000" />
       <workItem from="1744794270098" duration="470000" />
       <workItem from="1744875022065" duration="634000" />
+      <workItem from="1744890742640" duration="944000" />
+      <workItem from="1744891700860" duration="255000" />
+      <workItem from="1744891970569" duration="1165000" />
+      <workItem from="1744893147469" duration="767000" />
+      <workItem from="1744893941632" duration="2418000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value=" add : Calculator.java 추가 04-17" />
+    <option name="LAST_COMMIT_MESSAGE" value=" add : Calculator.java 추가 04-17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
