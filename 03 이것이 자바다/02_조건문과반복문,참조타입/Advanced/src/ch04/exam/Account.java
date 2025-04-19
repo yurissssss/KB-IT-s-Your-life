@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Account {
     public static void main(String[] args) {
-        boolean run = true;
+        boolean run = true;  //무한루프
         int balance = 0;  //잔고
         Scanner scanner = new Scanner(System.in);
 
@@ -17,19 +17,19 @@ public class Account {
             System.out.println("-----------------------------");
             System.out.print("선택> ");
 
-            int menuNum = Integer.parseInt(scanner.nextLine());
+            int menuNum = scanner.nextInt();
 
             switch (menuNum) {
                 //예금
                 case 1 -> {
                     System.out.print("예금액> ");
-                    balance += Integer.parseInt(scanner.nextLine());
+                    balance += scanner.nextInt();
                     break;
                 }
                 //출금
                 case 2 -> {
                     System.out.print("출금액> ");
-                    balance -= Integer.parseInt(scanner.nextLine());
+                    balance -= scanner.nextInt();
                     break;
                 }
                 //잔고
