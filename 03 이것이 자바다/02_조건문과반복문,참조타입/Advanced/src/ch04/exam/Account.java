@@ -7,9 +7,10 @@ import java.util.Scanner;
 public class Account {
     public static void main(String[] args) {
         boolean run = true;
-        int balance = 0;
+        int balance = 0;  //잔고
         Scanner scanner = new Scanner(System.in);
 
+        //무한루프
         while (run) {
             System.out.println("-----------------------------");
             System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
@@ -39,7 +40,7 @@ public class Account {
                 }
                 //종료
                 case 4 -> {
-                    run = false;
+                    run = false;  //무한루프 종료
                     System.out.println("프로그램 종료");
                     break;
                 }
