@@ -6,7 +6,7 @@ public class IfDiceExample {
         //0.0 <= Math.random()*6 < 6.0
         //0 <= (int)(Math.random()*6) < 6
         //1 <= (int)(Math.random()*6)+1 < 7
-        int num = (int)(Math.random()*6) + 1;
+        int num = (int)(Math.random()*6) + 1;  //1-6
 
         if (num == 1) {
             System.out.println("1번이 나왔습니다.");
