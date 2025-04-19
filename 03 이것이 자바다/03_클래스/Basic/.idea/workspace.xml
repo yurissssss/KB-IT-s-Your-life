@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf21f1c0-1e54-4c38-8bac-d73e5a0a0054" name="변경" comment="📁 add : Calculator.java 추가 04-17">
-      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec08/exam04/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec08/exam04/CalculatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec09/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec09/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec10/exam01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/src/ch06/sec10/exam01/CalculatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/02_java(기본).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/02_java(기본).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec06/exam01/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam01/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam01/CarExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam02/Korean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam02/KoreanExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam03/Korean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam04/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam04/CarExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam05/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec07/exam05/CarExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam01/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam01/CalculatorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam02/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam02/ComputerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam03/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../03 이것이 자바다/03_클래스/Basic/out/production/study/ch06/sec08/exam03/CarExample.class" beforeDir="false" />
-    </list>
+    <list default="true" id="cf21f1c0-1e54-4c38-8bac-d73e5a0a0054" name="변경" comment="📁 add 04-17" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +32,9 @@
     &quot;accountId&quot;: &quot;59fdae7e-5a88-4ed3-a9e8-75a9acf93483&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -80,7 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/yuri/Desktop/IT's Your life/fullstack/03 이것이 자바다/02_java(기본)/study/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/yuri/Desktop/IT's Your life/fullstack/03 이것이 자바다/03_클래스/Basic/src/Main.java",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -88,7 +64,8 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.CalculatorExample.executor": "Run",
     "애플리케이션.CarExample.executor": "Run",
-    "애플리케이션.ComputerExample.executor": "Run"
+    "애플리케이션.ComputerExample.executor": "Run",
+    "애플리케이션.ch06.sec09.CarExample.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
@@ -135,8 +112,49 @@
       <workItem from="1744891700860" duration="255000" />
       <workItem from="1744891970569" duration="1165000" />
       <workItem from="1744893147469" duration="767000" />
-      <workItem from="1744893941632" duration="2418000" />
+      <workItem from="1744893941632" duration="2802000" />
     </task>
+    <task id="LOCAL-00001" summary="📁 add : Calculator.java 추가 04-17">
+      <option name="closed" value="true" />
+      <created>1744900388890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900388890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="📁 add : CalculatorExample.java 추가 04-17">
+      <option name="closed" value="true" />
+      <created>1744900400514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900400514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="📁 add : CalculatorExample.java 추가 04-17">
+      <option name="closed" value="true" />
+      <created>1744900417274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900417274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="📁 add 04-17">
+      <option name="closed" value="true" />
+      <created>1744900482289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900482289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="📁 add 04-17">
+      <option name="closed" value="true" />
+      <created>1744900493387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900493387</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +165,9 @@
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
     <MESSAGE value=" add : Calculator.java 추가 04-17" />
-    <option name="LAST_COMMIT_MESSAGE" value=" add : Calculator.java 추가 04-17" />
+    <MESSAGE value=" add : CalculatorExample.java 추가 04-17" />
+    <MESSAGE value=" add 04-17" />
+    <option name="LAST_COMMIT_MESSAGE" value=" add 04-17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -156,6 +176,11 @@
           <url>file://$PROJECT_DIR$/study/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
